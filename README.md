@@ -302,20 +302,6 @@ deno run --allow-read --allow-write src/cli.ts delete
 deno run --allow-read --allow-write src/cli.ts invalid-command
 ```
 
-## 🤝 Contributing
-
-1. **Fork the repository**
-2. **Create feature branch**: `git checkout -b feature/amazing-feature`
-3. **Follow code standards**:
-   - Use TypeScript strict mode
-   - Implement proper error handling
-   - Add English user messages
-   - Follow existing patterns
-4. **Test thoroughly**: Verify all commands work correctly
-5. **Commit changes**: `git commit -m 'Add amazing feature'`
-6. **Push to branch**: `git push origin feature/amazing-feature`
-7. **Create Pull Request**
-
 ### Code Style Guidelines
 - Use TypeScript for type safety
 - Follow existing naming conventions
