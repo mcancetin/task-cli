@@ -2,6 +2,8 @@
 
 A modern, modular command-line task management application built with Deno and TypeScript. This CLI tool provides a clean architecture with full English language support for managing tasks with persistent JSON storage.
 
+**Source**: [Task Tracker Project - roadmap.sh](https://roadmap.sh/projects/task-tracker)
+
 ## ✨ Features
 
 - ✅ **Create Tasks**: Add new tasks with automatic ID assignment and timestamps
