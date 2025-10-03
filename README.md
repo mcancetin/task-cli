@@ -302,13 +302,6 @@ deno run --allow-read --allow-write src/cli.ts delete
 deno run --allow-read --allow-write src/cli.ts invalid-command
 ```
 
-### Code Style Guidelines
-- Use TypeScript for type safety
-- Follow existing naming conventions
-- Implement comprehensive error handling
-- Use clear, descriptive variable names
-- Add JSDoc comments for public functions
-
 ---
 
 **Built with ❤️ using Deno and TypeScript**
