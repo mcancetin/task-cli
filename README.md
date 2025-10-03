@@ -323,24 +323,6 @@ deno run --allow-read --allow-write src/cli.ts invalid-command
 - Use clear, descriptive variable names
 - Add JSDoc comments for public functions
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🔮 Roadmap
-
-Future enhancements under consideration:
-
-- [ ] **Due Dates**: Add deadline support for tasks
-- [ ] **Priority Levels**: High/Medium/Low priority classification
-- [ ] **Categories/Tags**: Organize tasks with labels
-- [ ] **Search**: Find tasks by description or content
-- [ ] **Export Options**: CSV/JSON export functionality
-- [ ] **Undo Operations**: Restore deleted tasks
-- [ ] **Bulk Operations**: Multi-task operations
-- [ ] **Configuration**: User preferences and settings
-- [ ] **Statistics**: Task completion analytics
-
 ---
 
 **Built with ❤️ using Deno and TypeScript**
